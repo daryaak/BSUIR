@@ -1,0 +1,6 @@
+list
+cd .git
+list
+cd ..
+info
+echo "Конец файла"
