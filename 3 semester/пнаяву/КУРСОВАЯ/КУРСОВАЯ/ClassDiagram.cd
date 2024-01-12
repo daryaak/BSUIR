@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Admin">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAgAABAAAQECAAAAAAAAAAAgAgAAAIA=</HashCode>
+      <FileName>Admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algorithm&lt;T&gt;">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAQAAAAAEAAAAAACABEAAAAAAAAAAAAAAkAAA=</HashCode>
+      <FileName>Algorithm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exeption">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAAAAAAAAAAQgAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Exeption.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileExeption">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAGAAAAAAAQAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>FileExeption.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputExeption">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAQAAAAAAAAAAAAEAAAAIAAAAAA=</HashCode>
+      <FileName>InputExeption.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Voucher">
+    <Position X="12.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAYEBAAAQAIhAAdkAEggQAAAAIAAAAAAACgAAAAAAA=</HashCode>
+      <FileName>Voucher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travel">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAACAAAgAAAAAAAAAgAQAAAAIAAACAAAAgAAAAAAA=</HashCode>
+      <FileName>Travel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sanatorium">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAQAAAAAAAAQAAAAAIAAAAAADgCAQAAAA=</HashCode>
+      <FileName>Sanatorium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Relax">
+    <Position X="18.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAAAABAQAAAAAAAAQBAAAAIAAAAAAAgCIAAAAA=</HashCode>
+      <FileName>Relax.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Therapy">
+    <Position X="15" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAICAAAABAAAAAAABAAQBAAAIIAAAIAAAgAAAAAAA=</HashCode>
+      <FileName>Therapy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sea">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAAAABIBAAAIAEAAQBAAAAIAAAAAAAgAAAAAgA=</HashCode>
+      <FileName>Sea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turism">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAAAABAAAAABEAAAQBAAAAIQAAAgAAgAAAAAAA=</HashCode>
+      <FileName>Turism.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextFile&lt;T&gt;">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAgAEAABAAAAAAAAAAAAAAAgAAAAAAAACAAAg=</HashCode>
+      <FileName>TextFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Iterator&lt;T&gt;">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAIAAAAAAQAEAAQAAgAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Queue&lt;T&gt;">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgACQCAAgIAAAIAAAJAQSBEAAAABAAAKEAAAQAA=</HashCode>
+      <FileName>Queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface&lt;T&gt;">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAABAAAgQAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reserve">
+    <Position X="8.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAQAAABABAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>Reserve.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
